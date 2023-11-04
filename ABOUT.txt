@@ -1,0 +1,15 @@
+This addon for Blender serves to quickly configure and use materials from the prepared library. 
+A set of shaders and PBR materials will be provided to the user. The prepared system of nodes 
+can be used for material settings and other PBR textures from your computer.
+
+Addon creator: Vlad Liskovetskiy
+
+Texture sources: PolyHaven.com, Poliigon.com
+
+Texture authors: Dario Barresi, Dimitrios Savva, Rob Tuytel,
+Ricco Cillers, Charlotte Baglioni, Amal Kumar, eye-candy.xyz
+
+HOW TO INSTALL:
+Open Blender v3.4 or higher -> Edit -> Preferences -> Add-Ons -> Install addon -> QuickShader.zip
+
+After installation you'll find addon panel in ToolShelf (Hotkey 'N' in 3D viewport)
